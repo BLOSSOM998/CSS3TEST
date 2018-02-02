@@ -1,0 +1,28 @@
+{
+  "name": "gulp_cli",
+  "version": "1.0.0",
+  "description": "CLI gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "BLOSSOM",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.21.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-less": "^3.3.2",
+    "gulp-plumber": "^1.2.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sequence": "^0.4.6",
+    "gulp-sourcemaps": "^2.6.2",
+    "less-plugin-autoprefix": "^1.5.1",
+    "pug": "^2.0.0-rc.4"
+  }
+}
